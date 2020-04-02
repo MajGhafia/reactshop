@@ -1,13 +1,41 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    background-color: crimson;
+    padding:20px;
+    margin: 0;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1, h2, p, ul, li {
+    font-family: fantasy;
+}
+ul.header li {
+    display: inline-block;
+    list-style: none;
+    margin: 0;
+    
+}
+ul.header li {
+    display: flexbox;
+    background-image: url(Costco_Logo_1.jpg.png);
+}
+ul header {
+    background-color: darkgray;
+    padding: 0;
+}
+ul.header li a {
+    color: gold;
+    font-weight: bold;
+    text-decoration: gray;
+    padding: 20px;
+    display: inline-block;
+    
+}
+.content {
+    background-color: ivory;
+    padding: 20px;
+}
+.content h2 {
+    padding: 0;
+    margin: 0;
+}
+.content li {
+    margin-bottom: 10px;
 }

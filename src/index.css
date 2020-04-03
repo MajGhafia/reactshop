@@ -13,8 +13,7 @@ ul.header li {
     
 }
 ul.header li {
-    display: flexbox;
-    background-image: url(Costco_Logo_1.jpg.png);
+    display: inline-block;
 }
 ul header {
     background-color: darkgray;
@@ -39,3 +38,6 @@ ul.header li a {
 .content li {
     margin-bottom: 10px;
 }
+
+
+

@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+This project was created to give customers the amenities and options of the Costco brand online as if they were in store. The purpose of the application is to bring the products and services to the customers. The friendly staff and services that available in store are also available online as well. Costco Values the customer service and the overall experience and satisfaction of the customers.
+
+Design wise this application is very standard and basic in turn that the customers needs will be met and the application will grow overtime. The principles of the said design are meant to bring out the purpose and meaning behind why the website was created. The color scheme represents the costco brand and the mission statement to put the customers first.
+
+The Costco services and custer help section of the website (still under development) are for customers to provide feedback for our social engineers and staff to examine the behaviors of the customers to better make changes to the website. The Functional reviews are for the design and tech support team to fix any problems with say the shopping cart, upload time/speed etc.
+
+The looks and design of the application are created to give the customers a clean and appealing look. The aesthetics are made to exentuate the shopping cart and give the overall design an inviting feel. The perceptual pattern is that the customers can get access to services, items and from the online website and have an easier time obtaining items and picking up items in store if they so choose.
